@@ -13,7 +13,7 @@ Tork : 143 Nm
 
 Maksimum tork devri : 4000 d/d
 
-0-100 km/s hýzlanma : 11.6 s
+0-100 km/s hýzlanma : 11.7 s
 
 Son hýz : 191 km/s
 
