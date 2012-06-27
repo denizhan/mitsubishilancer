@@ -1,0 +1,51 @@
+MITSUBISHI Lancer 
+
+Araç Sýnýfý : C 
+Yakýt Tipi : Benzinli 
+Motor Hacmi : 1499 cc
+
+Silindir Sayýsý : 4 
+Motor Gücü : 109 HP
+
+Maksimum güç devri : 6000 d/d
+
+Tork : 143 Nm
+
+Maksimum tork devri : 4000 d/d
+
+0-100 km/s hýzlanma : 11.6 s
+
+Son hýz : 191 km/s
+
+Þehir içi yakýt tüketimi : 8.2 lt
+
+Þehir dýþý yakýt tüketimi : 5.4 lt
+
+Karma yakýt tüketimi : 6.4 lt
+
+Kapý Sayýsý : 4 
+Gövde Þekli : Sedan/4 
+Uzunluk : 4570 mm
+
+Geniþlik : 1760 mm
+
+Yükseklik : 1490 mm
+
+Aks aralýðý : 2635 cm
+
+Boþ aðýrlýk : 1250 kg
+
+Taþýma kapasitesi: 500 kg
+
+Yüklü aðýrlýk : 1750 kg
+
+Ön Lastik : 205/60 R 16 
+Arka Lastik : 205/60 R 16 
+Yakýt deposu : 59 lt
+
+Bagaj Hacmi : 400 lt
+
+Vites : Düz (M5)
+
+Çekiþ : Önden çekiþli 
+Koltuk Sayýsý : 5 
